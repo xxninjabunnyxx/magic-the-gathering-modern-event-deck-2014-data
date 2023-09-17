@@ -1,0 +1,112 @@
+---
+object: card
+id: 10822e32-adf3-4ad7-b889-e81d68983b5b
+oracle_id: 3589bcfc-42b0-414a-adce-bc690dc631c8
+multiverse_ids:
+- 382203
+tcgplayer_id: 82738
+cardmarket_id: 267036
+name: Windbrisk Heights
+lang: en
+released_at: '2014-05-30'
+uri: https://api.scryfall.com/cards/10822e32-adf3-4ad7-b889-e81d68983b5b
+scryfall_uri: https://scryfall.com/card/md1/18/windbrisk-heights?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/0/10822e32-adf3-4ad7-b889-e81d68983b5b.jpg?1562385569
+  normal: https://cards.scryfall.io/normal/front/1/0/10822e32-adf3-4ad7-b889-e81d68983b5b.jpg?1562385569
+  large: https://cards.scryfall.io/large/front/1/0/10822e32-adf3-4ad7-b889-e81d68983b5b.jpg?1562385569
+  png: https://cards.scryfall.io/png/front/1/0/10822e32-adf3-4ad7-b889-e81d68983b5b.png?1562385569
+  art_crop: https://cards.scryfall.io/art_crop/front/1/0/10822e32-adf3-4ad7-b889-e81d68983b5b.jpg?1562385569
+  border_crop: https://cards.scryfall.io/border_crop/front/1/0/10822e32-adf3-4ad7-b889-e81d68983b5b.jpg?1562385569
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+  Windbrisk Heights enters the battlefield tapped.
+  {T}: Add {W}.
+  {W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.
+colors: []
+color_identity:
+- W
+keywords:
+- Hideaway
+produced_mana:
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3c31de17-6766-448e-a4eb-878d83031f3e
+set: md1
+set_name: Modern Event Deck 2014
+set_type: box
+set_uri: https://api.scryfall.com/sets/3c31de17-6766-448e-a4eb-878d83031f3e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amd1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/md1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/10822e32-adf3-4ad7-b889-e81d68983b5b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3589bcfc-42b0-414a-adce-bc690dc631c8&unique=prints
+collector_number: '18'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Omar Rayyan
+artist_ids:
+- 256b61a2-b9af-4ff5-b485-47a61818f818
+illustration_id: 255e53a7-fcc2-4cb4-bcd3-6591fca44e22
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 826
+penny_rank: 2050
+prices:
+  usd: '0.19'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382203
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Windbrisk+Heights&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Windbrisk+Heights&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Windbrisk+Heights
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82738?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Windbrisk+Heights&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Windbrisk+Heights&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

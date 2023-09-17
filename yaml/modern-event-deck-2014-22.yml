@@ -1,0 +1,113 @@
+---
+object: card
+id: b50df9f4-2e10-452f-839e-3c479b58c53a
+oracle_id: 70bb275b-3458-4690-a50f-b231fbf0bccb
+multiverse_ids:
+- 382179
+tcgplayer_id: 82752
+cardmarket_id: 267012
+name: Burrenton Forge-Tender
+lang: en
+released_at: '2014-05-30'
+uri: https://api.scryfall.com/cards/b50df9f4-2e10-452f-839e-3c479b58c53a
+scryfall_uri: https://scryfall.com/card/md1/22/burrenton-forge-tender?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/5/b50df9f4-2e10-452f-839e-3c479b58c53a.jpg?1562385667
+  normal: https://cards.scryfall.io/normal/front/b/5/b50df9f4-2e10-452f-839e-3c479b58c53a.jpg?1562385667
+  large: https://cards.scryfall.io/large/front/b/5/b50df9f4-2e10-452f-839e-3c479b58c53a.jpg?1562385667
+  png: https://cards.scryfall.io/png/front/b/5/b50df9f4-2e10-452f-839e-3c479b58c53a.png?1562385667
+  art_crop: https://cards.scryfall.io/art_crop/front/b/5/b50df9f4-2e10-452f-839e-3c479b58c53a.jpg?1562385667
+  border_crop: https://cards.scryfall.io/border_crop/front/b/5/b50df9f4-2e10-452f-839e-3c479b58c53a.jpg?1562385667
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Creature — Kithkin Wizard
+oracle_text: |-
+  Protection from red
+  Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Protection
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3c31de17-6766-448e-a4eb-878d83031f3e
+set: md1
+set_name: Modern Event Deck 2014
+set_type: box
+set_uri: https://api.scryfall.com/sets/3c31de17-6766-448e-a4eb-878d83031f3e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amd1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/md1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b50df9f4-2e10-452f-839e-3c479b58c53a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70bb275b-3458-4690-a50f-b231fbf0bccb&unique=prints
+collector_number: '22'
+digital: false
+rarity: uncommon
+flavor_text: '"We are a clachan of smiths. The forge is as comfortable to us as a
+  small fire during a cool winter''s evening."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chuck Lukacs
+artist_ids:
+- 2bdf4da7-c66c-4c46-a253-284c856ccfab
+illustration_id: a79e91ad-114c-4bfe-b7e8-1bcb08ed0203
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 18678
+penny_rank: 5401
+prices:
+  usd: '0.31'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382179
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Burrenton+Forge-Tender&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Burrenton+Forge-Tender&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Burrenton+Forge-Tender
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82752?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Burrenton+Forge-Tender&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Burrenton+Forge-Tender&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
